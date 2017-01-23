@@ -5,4 +5,4 @@ authors = ["softprops <d.tangren@gmail.com>"]
 
 [dependencies]
 hyper = "0.10"
-hyper-rustls= "0.3"
+hyper-native-tls = "0.2"
